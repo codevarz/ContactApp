@@ -1,5 +1,5 @@
 # ContactApp
-my test MEAN stack application
+my end to end MEAN stack application to perform CRUD operations in mongoDB by creating and consuming RESTful services
 
 Import the project
 
